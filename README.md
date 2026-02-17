@@ -14,8 +14,9 @@ gcc filename.c -o filename
 
 #### Chapter 1:  A Tutorial Introduction to C
 
-- Exercise 1-1: [Hello World: Part 1](./ch1/ex1-1_hello.c)
-
+- Exercise 1-1: [Hello World](./ch1/1-1_hello.c)
+- Exercise 1-3: [Fahrenheit to Celsius: While Loop](./ch1/1-3_fahr_to_celsius.c)
+- Exercise 1-4: [Celsius to Fahrenheit: While Loop](./ch1/1-4_celsius_to_fahr.c)
 
 #### Chapter 2: Types, Operators, and Expressions
 
