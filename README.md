@@ -14,6 +14,9 @@ gcc filename.c -o filename
 
 #### Chapter 1:  A Tutorial Introduction to C
 
+- Exercise 1-1: [Hello World: Part 1](./ch1/ex1-1_hello.c)
+
+
 #### Chapter 2: Types, Operators, and Expressions
 
 #### Chapter 3: Control Flow
