@@ -10,20 +10,20 @@ gcc filename.c -o filename
 ./filename
 ```
 
-## 📂 Book Contents
+## 📂 Contents
 
-### Chapter 1:  A Tutorial Introduction to C
+#### Chapter 1:  A Tutorial Introduction to C
 
-### Chapter 2: Types, Operators, and Expressions
+#### Chapter 2: Types, Operators, and Expressions
 
-### Chapter 3: Control Flow
+#### Chapter 3: Control Flow
 
-### Chapter 4: Functions and Program Structure
+#### Chapter 4: Functions and Program Structure
 
-### Chapter 5: Pointers and Arrays
+#### Chapter 5: Pointers and Arrays
 
-### Chapter 6: Structures
+#### Chapter 6: Structures
 
-### Chapter 7: Input and Output
+#### Chapter 7: Input and Output
 
-### Chapter 8: The UNIX System Interface
+#### Chapter 8: The UNIX System Interface
