@@ -1,5 +1,5 @@
 # Basic-C-Programming
-A collection of exercises and code excerpts from the classic text The C Programming Language, 2nd Edition by Brian W. Kernighan and Dennis M. Ritchie.
+A collection of exercises and code excerpts from the classic text [The C Programming Language, 2nd Edition](www.cs.sfu.ca/~ashriram/Courses/CS295/assets/books/C_Book_2nd.pdf) by Brian W. Kernighan and Dennis M. Ritchie.
 
 ## 🚀 Getting Started
 
