@@ -12,22 +12,25 @@ gcc filename.c -o filename
 
 ## 📂 Contents
 
-#### Chapter 1:  A Tutorial Introduction to C
+#### A Tutorial Introduction to C
 
-- Exercise 1-1: [Hello World](./ch1/1-1_hello.c)
-- Exercise 1-3: [Fahrenheit to Celsius: While Loop](./ch1/1-3_fahr_to_celsius.c)
-- Exercise 1-4: [Celsius to Fahrenheit: While Loop](./ch1/1-4_celsius_to_fahr.c)
+- **Exercise 1-1:** [Hello World](./ch1/1-1_hello.c) – The classic first program.
+- **Exercise 1-3:** [Fahrenheit to Celsius Table](./ch1/1-3_fahr_to_celsius.c) – Using `while` loops and formatted floating-point output with headers.
+- **Exercise 1-4:** [Celsius to Fahrenheit Table](./ch1/1-4_celsius_to_fahr.c) – Practicing reverse arithmetic and variable initialization.
+- **Exercise 1-5:** [Fahrenheit to Celsius: Reverse Order](./ch1/1-5_celsius_to_fahr.c) – Refactoring the logic into a `for` loop that counts down from 300 to 0.
+- **Exercise 1-6:** [Boolean Result of `getchar() != EOF`](./ch1/1-6_EOF_value.c) – Verifying that the relational expression evaluates to either 0 or 1.
+- **Exercise 1-7:** [Numeric Value of `EOF`](./ch1/1-7_EOF_value.c) – A simple program to print the constant `EOF` (revealing it as -1 on most systems).
 
-#### Chapter 2: Types, Operators, and Expressions
+#### Types, Operators, and Expressions
 
-#### Chapter 3: Control Flow
+#### Control Flow
 
-#### Chapter 4: Functions and Program Structure
+#### Functions and Program Structure
 
-#### Chapter 5: Pointers and Arrays
+#### Pointers and Arrays
 
-#### Chapter 6: Structures
+#### Structures
 
-#### Chapter 7: Input and Output
+#### Input and Output
 
-#### Chapter 8: The UNIX System Interface
+#### The UNIX System Interface
