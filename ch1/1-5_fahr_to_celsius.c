@@ -1,6 +1,3 @@
-/*
- * print Fahrenheit-Celsius table
- */
 #include <stdio.h>
 
 #define LOWER 0      // Lower limit of temperature scale
